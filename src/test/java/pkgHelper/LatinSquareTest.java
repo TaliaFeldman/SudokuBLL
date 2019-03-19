@@ -195,6 +195,6 @@ public class LatinSquareTest {
 		int[] arr2 = { 1, 3, 5, 2, 4 };
 		int[] nRemoveZeros = LS.RemoveZeros(arr);
 		assertTrue(nRemoveZeros == arr2);
-	}
 
+}
 }
